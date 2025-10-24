@@ -2,7 +2,7 @@
 
 # Configuring Firewall in Windows
 
-**Objective:**  
+** Objective:**  
 To install and configure IIS on Windows Server 2022, create a custom website on a specified port, and implement Windows Firewall rules to control and secure network access.
 
 ---
@@ -48,6 +48,7 @@ nmap -p 8080 <Windows-VM-IP>
 
 <img width="3716" height="1850" alt="Screenshot 2025-10-23 at 8 31 55 PM" src="https://github.com/user-attachments/assets/68f1ffb1-3d13-46bd-9463-cacb702c1a43" />
 <img width="3712" height="1847" alt="Screenshot 2025-10-23 at 8 28 33 PM" src="https://github.com/user-attachments/assets/99e7fea2-3e4c-4098-90e5-f1a9388a176e" />
+
 
 ## What I Learned
 - Installed and configured IIS on Windows Server 2022  
