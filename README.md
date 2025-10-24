@@ -45,5 +45,6 @@ To install and configure IIS on Windows Server 2022, create a custom website on 
 nmap -p 8080 <Windows-VM-IP>
 
 
-![Screenshot 2025-10-23 at 8 28 33 PM Small](https://github.com/user-attachments/assets/1a15936e-3d12-482c-8006-73ec27b6f1ce)
-![Screenshot 2025-10-23 at 8 31 55 PM Small](https://github.com/user-attachments/assets/48aa35c0-2156-4607-86b5-4608edec4f34)
+
+<img width="3716" height="1850" alt="Screenshot 2025-10-23 at 8 31 55 PM" src="https://github.com/user-attachments/assets/68f1ffb1-3d13-46bd-9463-cacb702c1a43" />
+<img width="3712" height="1847" alt="Screenshot 2025-10-23 at 8 28 33 PM" src="https://github.com/user-attachments/assets/99e7fea2-3e4c-4098-90e5-f1a9388a176e" />
