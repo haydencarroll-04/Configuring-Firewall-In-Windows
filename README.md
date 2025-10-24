@@ -43,3 +43,7 @@ To install and configure IIS on Windows Server 2022, create a custom website on 
 ## Verification from Kali Linux
 
 nmap -p 8080 <Windows-VM-IP>
+
+
+![Screenshot 2025-10-23 at 8 28 33 PM Small](https://github.com/user-attachments/assets/1a15936e-3d12-482c-8006-73ec27b6f1ce)
+![Screenshot 2025-10-23 at 8 31 55 PM Small](https://github.com/user-attachments/assets/48aa35c0-2156-4607-86b5-4608edec4f34)
